@@ -2,6 +2,7 @@
 ###### Designing an application around food delivery 
 -----------------------------------------------------------------------
 
+![alt text](https://github.com/YPariset/Feelin-Food-Mobile/blob/master/assets/example1.png)
 
 **A Snack Expo project.**
 
